@@ -51,3 +51,16 @@ Para evitar el plagio académico, todo concepto o dato externo debe ser correcta
 * Cita narrativa (énfasis en el autor): Según Hernández (2023), el trabajo en equipo fortalece las competencias profesionales.
 * Cita parentética (énfasis en el texto): El control de versiones mejora la colaboración en proyectos complejos (García & Pérez, 2022).
 * Lista de Referencias: Ubicada al final del documento, ordenada alfabéticamente por el apellido del primer autor y con sangría francesa.
+
+## 4. Sección 3: Herramientas Colaborativas y Productividad
+
+El uso de software adecuado facilita la comunicación y el control del flujo de trabajo.
+
+### 4.1. Control de Versiones (Git y GitHub)
+* Permite llevar un historial detallado de cambios.
+* Evita el uso de archivos con nombres como trabajo_final_v2_definitivo.docx.
+* Facilita la resolución de conflictos cuando dos personas trabajan en un mismo documento.
+
+### 4.2. Documentación y Almacenamiento en la Nube
+* Google Workspace / Drive: Ideal para redactar borradores rápidos o realizar tormentas de ideas en tiempo real.
+* Notion / Trello: Útiles para la gestión visual de tareas mediante tableros Kanban (Por hacer, En proceso, Finalizado).
