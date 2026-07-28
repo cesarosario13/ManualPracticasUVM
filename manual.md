@@ -64,3 +64,9 @@ El uso de software adecuado facilita la comunicación y el control del flujo de 
 ### 4.2. Documentación y Almacenamiento en la Nube
 * Google Workspace / Drive: Ideal para redactar borradores rápidos o realizar tormentas de ideas en tiempo real.
 * Notion / Trello: Útiles para la gestión visual de tareas mediante tableros Kanban (Por hacer, En proceso, Finalizado).
+
+## 5. Conclusión y Recomendaciones Finales
+
+1. Revisión cruzada: Antes de dar por concluido un tema, otro compañero debe leerlo para verificar coherencia y ortografía.
+2. Comunicación asertiva: Mantener informados a los compañeros sobre el avance o cualquier eventualidad con anticipación.
+3. Respeto a las pautas: Seguir los estándares de este manual desde el primer borrador para ahorrar tiempo en la fase final de edición.
