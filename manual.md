@@ -39,3 +39,15 @@ Cada integrante debe asumir responsabilidades definidas, por ejemplo:
 * **Para escribir documentos:** Word.
 * **Para guardar las versiones finales:** Git y GitHub.
 * **Para comunicarnos:** Whatsapp y Telegram.
+
+### 3.1. Estructura General del Documento
+* Márgenes: 1 pulgada (2.54 cm) en todos los lados.
+* Tipografía recomendada: Times New Roman 12 pt, Arial 11 pt o Calibri 11 pt.
+* Interlineado: 2.0 (doble espacio) sin espacio adicional entre párrafos.
+* Alineación: Izquierda (sin justificar), con sangría de 1.27 cm en la primera línea de cada párrafo.
+
+### 3.2. Citas y Referencias
+Para evitar el plagio académico, todo concepto o dato externo debe ser correctamente acreditado:
+* Cita narrativa (énfasis en el autor): Según Hernández (2023), el trabajo en equipo fortalece las competencias profesionales.
+* Cita parentética (énfasis en el texto): El control de versiones mejora la colaboración en proyectos complejos (García & Pérez, 2022).
+* Lista de Referencias: Ubicada al final del documento, ordenada alfabéticamente por el apellido del primer autor y con sangría francesa.
