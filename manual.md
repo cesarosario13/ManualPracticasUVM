@@ -4,7 +4,10 @@ Integrantes: Cesar Rosario y Gustavo Avendaño
 
 ///
 
-## 1. Cómo nos organizamos (Tiempo)
+## 1. Cómo nos organizamos (Introducción)
+
+El trabajo colaborativo en el ámbito universitario requiere más que la suma de esfuerzos individuales: exige comunicación, organización y estandarización. Este manual sirve como una guía práctica para estructurar proyectos académicos con un alto nivel de exigencia y profesionalismo.
+
 * **Reuniones:** Nos pondremos de acuerdo por Whatsapp para definir que hace cada uno.
 * **Entregas:** Iremos subiendo los avances a GitHub cada vez que terminemos un tema y no se entregara hasta que ambos hayamos revisado el documento final.
 
